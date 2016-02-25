@@ -1,0 +1,3 @@
+# ClearPython
+
+Clearcase Python libraries
